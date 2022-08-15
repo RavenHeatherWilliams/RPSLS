@@ -18,20 +18,3 @@ class Game:
         
                
     # def self.battle(self):
-    #     rock crushes scissors
-    #     scissors cuts paper 
-    #     paper covers rock 
-    #     rock crushes lizard 
-    #     lizard poisons spock 
-    #     spock smashes scissors
-    #     scissors decapitates lizard
-    #     lizard eats paper 
-    #     paper disproves spock 
-    #     spock vaporizes rock 
-
-
-        # self.rock
-        # self.scissors
-        # self.paper
-        # self.spock
-        # self.lizard
