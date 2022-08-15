@@ -1,5 +1,5 @@
-from human import Human
 from ai import AI
+from human import Human
 
 class Game:
     def __init__(self):

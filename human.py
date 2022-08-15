@@ -6,7 +6,7 @@ class Human(Player):
         self.gesture = Player("rock, paper, scisors, lizard, spock")
     
     def battle(self,AI):
-        ai.gesture -= self.gesture.user_choice
-        print(f'{ai.name} has selected {self.gesture} and {self.gesture.user_choice}')
+        AI.gesture -= self.gesture.user_choice
+        print(f'AI has selected {self.gesture} and {self.gesture.user_choice}')
 
 
