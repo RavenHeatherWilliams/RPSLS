@@ -8,5 +8,7 @@
 # Correct player need to win the round based on the choices made by each player 
 # Best of three rounds (will require a while   loop)
 # Create the option of a single player (human vs AI) or multiplayer (human vs human) game 
-import imp
+
 from game import Game
+game=Game()
+game.run_game()
