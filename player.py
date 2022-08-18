@@ -12,14 +12,5 @@ class Player:
         
 
     # def gesture_user_choice(self):
-    #     self.rock = "rock crushes scissors"
-    #     self.scissors = "scissors cuts paper" 
-    #     self.paper = "paper covers rock" 
-    #     self. rock = "rock crushes lizard" 
-    #     self.lizard = "lizard poisons spock" 
-    #     self.spock = "spock smashes scissors"
-    #     self.scissors = "scissors decapitates lizard"
-    #     self.lizard = "lizard eats paper" 
-    #     self.paper = "paper disproves spock" 
-    #     self.spock = "spock vaporizes rock" 
+ 
 
